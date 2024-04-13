@@ -15,7 +15,7 @@ Sou Programador Front End. Gosto de estudar e aprendo novas habilidades com faci
 
 Faço parte de uma obra voluntária de educação bíblica, onde desenvolvemos habilidades comunicativas e temos contato com diferentes pessoas quase todos os dias. 
 
-Estou sempre buscando novos aprendizados que me possibilitem expandir minhas áreas de conhecimento. Aprendo novas habilidades com facilidade e rapidez. Dou atenção a detalhes, sou organização, pontual e comprometido.
+Estou sempre buscando novos aprendizados que me possibilitem expandir minhas áreas de conhecimento. Aprendo novas habilidades com facilidade e rapidez. Dou atenção a detalhes, sou organizado, pontual e comprometido.
 
 <br/>
 
