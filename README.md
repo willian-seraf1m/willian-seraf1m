@@ -13,9 +13,9 @@ Sou um Programador Front End apaixonado por aprender e crescer constantemente, t
 
 ### Soft Skills
 
-Estou sempre buscando novos aprendizados que me possibilitem expandir minhas áreas de conhecimento. Aprendo novas habilidades com facilidade e rapidez. Dou atenção a detalhes, sou organizado, pontual e comprometido.
+Aprendo novas habilidades com facilidade e rapidez. Dou atenção a detalhes, sou organizado, pontual e comprometido.
 
-Além disso, faço parte de uma obra voluntária de educação bíblica, onde desenvolvo habilidades comunicativas e tenho contato com diferentes pessoas quase todos os dias. Isso me ajuda a desenvolver habilidades necessárias no trabalho em equipe, como: comunicação clara, escuta ativa e resolução de conflitos.
+Faço parte de uma obra voluntária de educação bíblica, onde desenvolvo habilidades comunicativas e tenho contato com diferentes pessoas quase todos os dias. Isso me ajuda a desenvolver habilidades necessárias no trabalho em equipe, como: comunicação clara, escuta ativa e resolução de conflitos.
 
 <br/>
 
