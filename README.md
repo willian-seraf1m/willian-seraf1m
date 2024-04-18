@@ -1,4 +1,4 @@
-### Olá! Eu sou o Willian👋
+### Olá! Eu sou o Willian 👋
 ##
 
 ### Contatos
@@ -9,13 +9,13 @@
 
 
 ### Sobre mim
-Sou Programador Front End. Gosto de estudar e aprendo novas habilidades com facilidade.
+Sou um Programador Front End apaixonado por aprender e crescer constantemente, tanto profissionalmente quanto pessoalmente. Estou sempre em busca de novas habilidades e conhecimentos que possam me ajudar a evoluir, não apenas como programador, mas também como pessoa. 
 
 ### Soft Skills
 
-Faço parte de uma obra voluntária de educação bíblica, onde desenvolvemos habilidades comunicativas e temos contato com diferentes pessoas quase todos os dias. 
-
 Estou sempre buscando novos aprendizados que me possibilitem expandir minhas áreas de conhecimento. Aprendo novas habilidades com facilidade e rapidez. Dou atenção a detalhes, sou organizado, pontual e comprometido.
+
+Além disso, faço parte de uma obra voluntária de educação bíblica, onde desenvolvo habilidades comunicativas e tenho contato com diferentes pessoas quase todos os dias. Isso me ajuda a desenvolver habilidades necessárias no trabalho em equipe, como: comunicação clara, escuta ativa e resolução de conflitos.
 
 <br/>
 
