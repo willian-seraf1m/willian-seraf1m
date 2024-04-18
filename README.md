@@ -4,7 +4,7 @@
 ### Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-serafim-9481782a4/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willianserafim2017@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willianserafim2017@gmail.com)
 
 
 
@@ -15,13 +15,13 @@ Sou um Programador Front End apaixonado por aprender e crescer constantemente, t
 
 Aprendo novas habilidades com facilidade e rapidez. Dou atenção a detalhes, sou organizado, pontual e comprometido.
 
-Faço parte de uma obra voluntária de educação bíblica, onde desenvolvo habilidades comunicativas e tenho contato com diferentes pessoas quase todos os dias. Isso me ajuda a desenvolver habilidades necessárias no trabalho em equipe, como: comunicação clara, escuta ativa e resolução de conflitos.
+Faço parte de uma obra voluntária de educação bíblica, onde desenvolvo habilidades comunicativas e tenho contato com diferentes pessoas quase todos os dias. Isso me ajuda a desenvolver habilidades essenciais no trabalho em equipe, como: comunicação clara, escuta ativa e resolução de conflitos.
 
+<br/>
+<hr/>
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=willian-seraf1m&show_icons=true&theme=dark" />
-
-<hr/>
 
 ### Front End Skills 
 
